@@ -1,5 +1,4 @@
 require 'pry'
-require_relative '../lib/tic_tac_toe.rb'
 
 
 class TicTacToe
@@ -120,6 +119,5 @@ class TicTacToe
 
 end
 
-game = TicTacToe.new
-game.play
+
 
